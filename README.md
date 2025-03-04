@@ -1,4 +1,7 @@
-# credit-risk-classification
+# Using a supervised machine learning model,
+# create a classification model that focuses on predicting and categorizing credit risk
+
+### credit-risk-classification
 
 1) content 
 the purpose is to  use various techniques to train and evaluate a model based on loan risk. 
